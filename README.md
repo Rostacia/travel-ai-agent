@@ -2,6 +2,13 @@
 
 <img src="public/TravelAI.png"/>
 
+## 🚀 Live Demo  
+
+Check out the live app here: [Travel AIgent](https://travel-ai-agent.vercel.app/)  
+
+Click the link above to start planning your trips with AI assistance! ✈️ 🌍  
+
+
 ## **🚀 Features**
 - 🌐 **AI-Powered Itinerary Builder** – Get personalized travel plans instantly.  
 - 🗣️ **Voice Chat Integration** – Interact with our AI assistant via **Eleven Labs**.  
