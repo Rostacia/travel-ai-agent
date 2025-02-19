@@ -11,7 +11,7 @@ Click the link above to start planning your trips with AI assistance! ✈️ �
 
 ## **🚀 Features**
 - 🌐 **AI-Powered Itinerary Builder** – Get personalized travel plans instantly.  
-- 🗣️ **Voice Chat Integration** – Interact with our AI assistant via **Eleven Labs**.  
+- 🗣️ **Voice Chat Integration** – Interact with our AI voice assistant.  
 - 🔒 **User Authentication** – Secure sign-up and login with **Appwrite**.  
 
 ---
@@ -19,7 +19,6 @@ Click the link above to start planning your trips with AI assistance! ✈️ �
 ## **🛠️ Tech Stack**
 - **Frontend:** React (Vite)  
 - **Backend:** Appwrite (Authentication & Database)  
-- **Hosting:** Heroku  
 - **AI Integration:** Eleven Labs, n8n  
 
 ---
