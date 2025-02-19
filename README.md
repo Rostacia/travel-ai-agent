@@ -2,7 +2,7 @@
 
 <img src="public/TravelAI.png"/>
 
-## 🚀 Live Demo  
+## 🔗 Live Demo  
 
 Check out the live app here: [Travel AIgent](https://travel-ai-agent.vercel.app/)  
 
